@@ -1,0 +1,14 @@
+.primary
+{
+
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    padding: 10px 20px;
+
+
+}
+.labelStyle{
+    color:green;
+    font-size: 20px;
+}
